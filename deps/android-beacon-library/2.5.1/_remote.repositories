@@ -1,4 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue Oct 11 17:11:26 CST 2016
-android-support.jar>=
-android-support.pom>=
+#Tue Oct 11 17:23:20 CST 2016
+android-beacon-library-2.5.1.jar>=
+android-beacon-library-2.5.1.pom>=
