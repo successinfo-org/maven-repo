@@ -1,4 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue Oct 11 17:11:26 CST 2016
-asmack-1.0.0.jar>=
-asmack-1.0.0.pom>=
+#Tue Oct 11 17:11:25 CST 2016
+commons-codec.jar>=
+commons-codec.pom>=

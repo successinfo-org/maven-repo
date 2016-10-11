@@ -1,5 +1,0 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Apr 29 15:22:14 CST 2016
-http\://mvn.luafan.com/nexus/content/groups/public/.lastUpdated=1461914534636
-@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1452093180241
-http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact deps\:android-beacon-library\:pom\:1.0 from/to central (http\://repo.maven.apache.org/maven2)\: repo.maven.apache.org

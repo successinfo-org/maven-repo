@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>deps</groupId>
+  <artifactId>android</artifactId>
+  <versioning>
+    <release>support</release>
+    <versions>
+      <version>beacon</version>
+      <version>support</version>
+    </versions>
+    <lastUpdated>20161011091126</lastUpdated>
+  </versioning>
+</metadata>

@@ -5,5 +5,5 @@
   <groupId>deps</groupId>
   <artifactId>gifview</artifactId>
   <version>1.0.0</version>
-  <description>POM was created by Sonatype Nexus</description>
+  <description>POM was created from install:install-file</description>
 </project>
