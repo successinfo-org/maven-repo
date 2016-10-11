@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Oct 11 17:55:57 CST 2016
+LuaJavaLib-1.4.2.pom>=
+LuaJavaLib-1.4.2-x86.so>=
+LuaJavaLib-1.4.2-armeabi-v7a.so>=
