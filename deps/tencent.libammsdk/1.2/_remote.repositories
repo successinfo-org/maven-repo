@@ -1,4 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue Oct 11 17:49:18 CST 2016
-tencent.libammsdk-1.1.jar>=
-tencent.libammsdk-1.1.pom>=
+#Thu Oct 27 11:05:26 CST 2016
+tencent.libammsdk-1.2.pom>=
+tencent.libammsdk-1.2.jar>=
