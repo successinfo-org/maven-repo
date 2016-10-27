@@ -3,7 +3,7 @@
   <groupId>cap</groupId>
   <artifactId>caplib</artifactId>
   <versioning>
-    <release>2.1.7</release>
+    <release>2.1.8</release>
     <versions>
       <version>2.0.9</version>
       <version>2.1.0</version>
@@ -13,7 +13,8 @@
       <version>2.1.5</version>
       <version>2.1.6</version>
       <version>2.1.7</version>
+      <version>2.1.8</version>
     </versions>
-    <lastUpdated>20161026134638</lastUpdated>
+    <lastUpdated>20161027065830</lastUpdated>
   </versioning>
 </metadata>
